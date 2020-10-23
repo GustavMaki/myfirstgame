@@ -2,9 +2,9 @@
   "name": "myfirstgame",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.html",
   "scripts": {
-    "start": "index.html"
+    "start": "http-server"
   },
   "author": "",
   "license": "ISC",
