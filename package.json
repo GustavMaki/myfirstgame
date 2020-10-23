@@ -2,7 +2,7 @@
   "name": "myfirstgame",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "public",
   "scripts": {
     "start": "http-server"
   },
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "http-server": "^0.12.3",
     "node": "^15.0.1",
     "phaser": "^3.24.1"
   }
